@@ -11,18 +11,14 @@ public class MySecondClass {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Hello World2");
-		System.out.println("Hello World3");
-		System.out.println("Hello World4");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World2");
-		System.out.println("Hello World23");
+		int mynumber;
+		mynumber = 10;
+		
+		int mynumber2 = 10;
+		
+		System.out.println("mynumber의 값은 "+mynumber);
+		System.out.println("mynumber2의 값은 "+mynumber2);
+		
 	}
 
 }
